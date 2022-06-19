@@ -114,4 +114,5 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 ## Contributing
 
 Contributions are always welcome!
+However this is a project done for a school and will often times not be followed up with.
 
